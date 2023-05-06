@@ -1,0 +1,502 @@
+{
+    "1006626905333698641": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "1063453541286543411": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "1077200384646455316": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 3,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 208,
+        "poids": -1.89,
+        "pseudo": "Croupier",
+        "vie": 98783
+    },
+    "1079096738335428748": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "1083397606065049681": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "156477437566386178": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "172089026696708097": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "223829728690176001": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "239456245701017600": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "257319734045966337": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "282477270990323713": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "340245523636420608": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "346259558479691778": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "361567366359941120": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "365947763919421451": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "395623148571328532": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "424397477953667093": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "505844770523054080": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "533736011407294465": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "602065467368275969": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "887352240879308832": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "892827360116756530": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "984550603755761724": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "bank": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    },
+    "new": {
+        "atk": 0,
+        "def": 0,
+        "evade": 1.0,
+        "faim": 0,
+        "fatigue": 0,
+        "force": 6,
+        "fufu": 100,
+        "grade": 1.0,
+        "info": 1.0,
+        "is_jail": "free",
+        "item": {
+            "burger": 3,
+            "kdo": 1
+        },
+        "money": 113,
+        "poids": -1080.48,
+        "pseudo": "Poulpe",
+        "vie": -23450
+    }
+}
